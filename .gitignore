@@ -1,0 +1,5 @@
+im_server/.xmake
+im_server/build
+im_server/log4cxx/include
+im_server/log4cxx/lib
+im_server/temp
